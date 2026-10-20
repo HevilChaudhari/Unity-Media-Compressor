@@ -1,0 +1,21 @@
+{
+  "name": "com.hevul.media-compressor",
+  "version": "1.0.0",
+  "displayName": "Media Compressor (Android Hardware & Image)",
+  "description": "Standalone high-performance async media compressor for Unity Android. Compresses images and videos using hardware-accelerated MediaCodec with gallery-saving and cache management options.",
+  "unity": "2022.3",
+  "dependencies": {
+    "com.yasirkula.nativegallery": "https://github.com/yasirkula/UnityNativeGallery.git"
+  },
+  "keywords": [
+    "video",
+    "image",
+    "compression",
+    "mediacodec",
+    "android",
+    "hardware"
+  ],
+  "author": {
+    "name": "Hevul RND"
+  }
+}

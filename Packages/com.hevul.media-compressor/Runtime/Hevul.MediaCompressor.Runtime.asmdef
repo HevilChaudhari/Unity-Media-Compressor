@@ -1,0 +1,16 @@
+{
+  "name": "Hevul.MediaCompressor.Runtime",
+  "rootNamespace": "Hevul.MediaCompressor",
+  "references": [
+    "NativeGallery.Runtime"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

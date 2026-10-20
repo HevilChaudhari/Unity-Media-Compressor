@@ -1,0 +1,26 @@
+# Unity Package .gitignore
+
+# OS generated files
+[Tt]humbs.db
+[Dd]esktop.ini
+*.DS_Store
+$RECYCLE.BIN/
+
+# Temporary / Build artifacts
+[Bb]uild/
+[Bb]uilds/
+*.tmp
+*.temp
+*.bak
+
+# IDE and Editor Cache
+.vs/
+.idea/
+.vscode/
+*.userprefs
+*.suo
+*.user
+*.workspace
+
+# Do NOT ignore .meta files in packages (Unity requires them)
+!*.meta
